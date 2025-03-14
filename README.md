@@ -1,4 +1,5 @@
-# open_source_field_kits
+# 2FP Open Source Field Kits Design
+
 Details on open source field kits an associated protocols for use by the scientific community
 
 This resource is actively under development; at present, we have posted a simple kit for taking 10-20 samples and it's associated protocols.
