@@ -12,6 +12,8 @@ Current contents:
 
 2. kit_10sample_collection-nobanking_protocol -- metadata, kit contents, and protocol for collecting samples without banking for DNA sequencing and culturing in the field (this will happen when kits are recieved at the lab).
 
+3. citizen_science_extremophiles_in_the_home -- Documentation for the following Citizen Science project: https://citsci.org/projects/the-extremophile-campaign-in-your-home
+ 
 Coming soon:
 
 3. In-field culturing
