@@ -1,6 +1,6 @@
 # 2FP Open Source Field Kits Design
 
-Details on open source field kits an associated protocols for use by the scientific community
+Details on open source field kits and associated protocols for use by the scientific community
 
 This resource is actively under development as we formalize our kits.
 
